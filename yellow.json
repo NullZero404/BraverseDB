@@ -1,0 +1,18 @@
+[{
+    "name": "Roguefort Cookie",
+    "rarity": "SR",
+    "level": 3,
+    "type": "cookie",
+    "isFlip": false,
+    "image": "./cookie run/yellow/ST2_001.png.webp"
+},
+{
+    "name": "Mustard Cookie",
+    "rarity": "C",
+    "level": 1,
+    "type": "cookie",
+    "isFlip": true,
+    "image": "./cookie run/yellow/ST2_007.png.webp"
+
+}
+]
