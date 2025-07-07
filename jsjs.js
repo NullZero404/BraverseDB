@@ -4,4 +4,4 @@ fetch('yellow.json')
             console.log(data[0], data[1])
         })
 
-console.log("hi");
+console.log("tite");
